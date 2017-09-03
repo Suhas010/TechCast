@@ -11,4 +11,4 @@ in TechScan Directory
 `npm start`
 
 ### Step  3
-*open localhost:3000 in Browser*
+*open `localhost:3000` in Browser*
