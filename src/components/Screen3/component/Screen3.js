@@ -160,6 +160,12 @@ class Screen3 extends Component {
 
     }
 
+    /**
+     * @description  renders user Details
+     * @author Suhas R More
+     * @returns 
+     * @memberof Screen3
+     */
     renderUserDetails() {
 
         if (this.state.repoList != null && this.state.userList != null) {
@@ -230,6 +236,8 @@ class Screen3 extends Component {
             );
         }
     }
+
+    
     render() {
         return (
             <div>

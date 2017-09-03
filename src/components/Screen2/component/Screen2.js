@@ -24,7 +24,7 @@ class Screen2 extends Component {
             errorCode: null,
         }
 
-        //getData(this.props.api, this.getDataCallback);
+       
         this.getDataCallback = this.getDataCallback.bind(this);
         this.getRepositoryList = this.getRepositoryList.bind(this);
         this.getRepoSummery = this.getRepoSummery.bind(this);
@@ -269,6 +269,8 @@ class Screen2 extends Component {
             );
         }
     }
+
+    
     /**
     * @description renders langugae and repo count from Json defined in action
     * @author Suhas R More

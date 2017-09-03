@@ -10,6 +10,7 @@ import { Col, Modal, Button } from "react-bootstrap";
  * @class PopupMessage
  * @extends {Component}
      */
+	
 class PopupMessage extends Component {
 	constructor(props) {
 		super(props);
