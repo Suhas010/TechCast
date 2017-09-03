@@ -1,5 +1,8 @@
 # TechCast
 
+## Prerequisite
+
+### npm and node latest version
 
 ## Running on Local Environment
 in TechScan Directory 
@@ -12,3 +15,12 @@ in TechScan Directory
 
 ### Step  3
 *open `localhost:3000` in Browser*
+
+
+
+
+# Note
+This is my First hackathon :-) 
+
+
+
